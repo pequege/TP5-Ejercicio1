@@ -16,5 +16,5 @@ Cuando el usuario adivine el numero mostrar un mensaje indicando al usuario que 
 En una terminal ejecuta el siguiente comando:
 
 ```
-git clone https://github.com/pequege/TP3-js.git
+git clone https://github.com/pequege/TP5-Ejercicio1.git
 ```
